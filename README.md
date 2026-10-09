@@ -1,0 +1,2 @@
+# i-found-out-this-rock-this-was-true-jesus-was-an-architect-previous-to-his-careerrer-as-a-profut
+after spending a couple of days learning howe to msake pcbs with the Keycad softwarei had an ubiquitous evening discovering how i can use ai to maximise my production in ,my small electronics lab just started like  reeally its like some kinbds of parsec alchemy for your brain to work much harder than it ever has before to keep up with the changing 
