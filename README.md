@@ -1,5 +1,5 @@
-# i-found-out-this-rock-this-was-true-jesus-was-an-architect-previous-to-his-careerrer-as-a-profut
-after spending a couple of days learning howe to msake pcbs with the Keycad softwarei had an ubiquitous evening discovering how i can use ai to maximise my production in ,my small electronics lab just started like  reeally its like some kinbds of parsec alchemy for your brain to work much harder than it ever has before to keep up with the changing 
+# i-found-out-this-rock-this-was-true-jesus-was-an-architect-previous-to-his-careerrer-as-a-profit
+after spending a couple of days learning how to make pcbs with the Kicad i had an ubiquitous evening discovering how i can use ai to maximize my production in ,my small electronics lab just started. its like some kinbds of parsec alchemy for your brain to work much harder than it ever has before to keep up with the changing 
 here is were we started with a back and fourth on what the parameters of the analyzer would be:THD & SNR DSP Algorithm — Audio IC Test Analyzer
 ==================================================
 
